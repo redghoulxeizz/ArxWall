@@ -28,7 +28,7 @@ banner = """
    A:::::A             A:::::A    r:::::r               x:::::xx:::::x            W:::::::W       W:::::::W         a::::a    a:::::a l::::::ll::::::l
   A:::::A               A:::::A   r:::::r              x:::::x  x:::::x            W:::::W         W:::::W          a:::::aaaa::::::a l::::::ll::::::l
  A:::::A                 A:::::A  r:::::r             x:::::x    x:::::x            W:::W           W:::W            a::::::::::aa:::al::::::ll::::::l
-AAAAAAA                   AAAAAAA rrrrrrr            xxxxxxx      xxxxxxx            WWW             WWW              aaaaaaaaaa  aaaallllllllllllllll By e0nz
+AAAAAAA                   AAAAAAA rrrrrrr            xxxxxxx      xxxxxxx            WWW             WWW              aaaaaaaaaa  aaaallllllllllllllll By xeizz
 A Firewall behind TOR                                                                                                                                        
 
 """
